@@ -1,3 +1,24 @@
+# dass_portfolio
+Build a Stunning portfolio with React JS and framer motion which lets you showcase your work and provides each and every detail about you as Software DevelopePushing local Project
+
+## Tech Stack
+React js,Framer Motion,CSS
+
+## Demo
+https://dassportfolio.netlify.app/
+
+![](https://github.com/Ldass2000/Portfolio/blob/main/Portfolio%20ScreenShot/Main.png)
+
+# Features
+### Main Screen
+![](https://github.com/Ldass2000/Portfolio/blob/main/Portfolio%20ScreenShot/Main.png)
+
+### Project Screen
+![](https://github.com/Ldass2000/Portfolio/blob/main/Portfolio%20ScreenShot/Project.png)
+
+### Resume Screen
+![](https://github.com/Ldass2000/Portfolio/blob/main/Portfolio%20ScreenShot/Resume.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
